@@ -1,0 +1,1 @@
+An official smart contract and token source code of Plater Token ($PLATER) for Initial Decentralized-Exchange Offering (IDO). 

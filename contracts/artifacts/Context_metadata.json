@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/PlaterToken.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/PlaterToken.sol": {
+			"keccak256": "0x505fc31ea7e2c0f21e98bada3e75e1d60c62e5766d2e78bd06885c34757a818f",
+			"urls": [
+				"bzz-raw://e614d2dbce2a122f64e1da8a8b94a3e08e23608600f252bfcdcfa14779c79f9d",
+				"dweb:/ipfs/QmNWNEHUafzJ9JrWtbS9YqeYdWEdSTfsk2yHJeKvbcgWYE"
+			]
+		}
+	},
+	"version": 1
+}
